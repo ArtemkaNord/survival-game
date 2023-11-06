@@ -4,9 +4,9 @@ Game dev group AN
 
 Group members:
 
-Nureini Moobe
-Fazeel Asim
-Laction Thapa
+Nureini Moobe,
+Fazeel Asim,
+Laction Thapa,
 Artem Zakharenkov
 
 
@@ -28,4 +28,4 @@ The games mechanics include wasd keys for movement, shift for sprint, left ctrl 
 ## Installation
 
 The webGL features a the basic enviromet without colliders and zombies
-In oder to get a full for smoother experience you can run the .exe file located in the builds
+In oder to get a full for smoother experience you can run the .exe file located in the build.
