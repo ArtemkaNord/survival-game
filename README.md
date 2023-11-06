@@ -27,5 +27,6 @@ The games mechanics include wasd keys for movement, shift for sprint, left ctrl 
 
 ## Installation
 
-The webGL features a the basic enviromet without colliders and zombies
-In oder to get a full for smoother experience you can run the .exe file located in the build.
+
+The webGL features a the basic enviromet without colliders and zombies.
+In oder the full , smoother experience it is reccomemded you run the .exe file
