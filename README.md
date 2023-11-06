@@ -2,6 +2,14 @@
 
 Game dev group AN
 
+Group members:
+
+Nureini Moobe
+Fazeel Asim
+Laction Thapa
+Artem Zakharenkov
+
+
 A 3D Open world ,low poly, Zombies survival game made in unity
 
 assests used :
